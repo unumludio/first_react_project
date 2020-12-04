@@ -1,0 +1,20 @@
+.Title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: normal;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.Form {
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    width: 250px;
+    margin: 0 auto;
+    justify-content: space-between;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+}

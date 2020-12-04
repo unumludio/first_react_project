@@ -1,0 +1,44 @@
+.Title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: normal;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.Form {
+    display: flex;
+    flex-direction: column;
+    min-height: 400px;
+    height: 100%;
+    width: 350px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+}
+
+.ProcessInput {
+    margin-top: 10px !important;
+    padding: 5px !important;
+    width: 100%;
+    border: 1px solid #ccc !important;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.ProcessInput button {
+    align-self: flex-end;
+    margin-top: -40px;
+    padding: 7px;
+}
+
+.AddProcessBtn {
+    align-self: center;
+}
+
+.CreateBtn {
+    margin-top: auto!important;
+    margin-bottom: 0;
+}
