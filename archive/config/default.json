@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "baseLink": "mongodb://polo:12345@localhost:27017/archive_base?authSource=admin",
+    "jwtSecret": "jgrhg(JKF%E&*yt478*Tgt49$&nbqcCGD#(;.'",
+    "jwtRefSecret": "hngm.45y49$&nbqcCj56jhh54hg'"
+}
